@@ -1,0 +1,924 @@
+Image: 25.png
+  Text: portefeuille homme deux volets simili cuir grainé couleur marron
+  Similarity Probability: 0.9689
+  Text: Botte de pluie chelsea bleue plus légère et confortable
+  Similarity Probability: 0.0001
+  Text: Botte de pluie jaune pour enfant plus légère et confortable
+  Similarity Probability: 0.0000
+  Text: Ballerine grand nœud grise en polaire recyclée, semelle cuir souple
+  Similarity Probability: 0.0001
+  Text: Moufles  maille noir avec un bord fourrure, s'adaptent à votre main
+  Similarity Probability: 0.0000
+  Text: Chausson noir avec rayures, confort et esthétisme. Intérieur velours
+  Similarity Probability: 0.0003
+  Text: Gants gris fibres polyester recyclé, matière douce et très confortable
+  Similarity Probability: 0.0000
+  Text: Tong sport confort rose et noire garantie maintien, confort et légèreté
+  Similarity Probability: 0.0013
+  Text: Parapluie canne motif fleur, solidité, automatique et déperlant
+  Similarity Probability: 0.0000
+  Text: Parapluie imprimé à pois, prix bas, ouverture manuelle, solide
+  Similarity Probability: 0.0000
+  Text: Parapluie automatique X-tra Solide, innovation technologique solide
+  Similarity Probability: 0.0000
+  Text: Ceinture marron clair, noire, réversible, ajustable, effet grainé
+  Similarity Probability: 0.0252
+  Text: Ceinture robuste, uniforme, couleur noire, matière en tissu tressé
+  Similarity Probability: 0.0036
+  Text: Casquette beige en coton, confortable, protection maximum contre le soleil
+  Similarity Probability: 0.0000
+  Text: Chapeau trilby en paille, idéal pour été, robuste, léger et confortable
+  Similarity Probability: 0.0001
+  Text: Lunettes de soleil enfant de 2 à 3 ans, verres protection des yeux
+  Similarity Probability: 0.0000
+  Text: Gants femme gris, noir taille unique, protection contre le froid
+  Similarity Probability: 0.0001
+  Text: Gants long femme rouge bordeaux, doublés polaire, élégance, look tendance
+  Similarity Probability: 0.0002
+  Text: Tour de cou maille rouge, pour homme protège du froid, pour hiver
+  Similarity Probability: 0.0000
+  Text: Tong fuchsia ergonomique, confort optimal tout au long de votre journée
+  Similarity Probability: 0.0000
+  Text: Bonnet marine homme, doublé polaire, confort, finitions torsades et maille
+  Similarity Probability: 0.0002
+
+Image: 41.png
+  Text: portefeuille homme deux volets simili cuir grainé couleur marron
+  Similarity Probability: 0.0011
+  Text: Botte de pluie chelsea bleue plus légère et confortable
+  Similarity Probability: 0.8872
+  Text: Botte de pluie jaune pour enfant plus légère et confortable
+  Similarity Probability: 0.0980
+  Text: Ballerine grand nœud grise en polaire recyclée, semelle cuir souple
+  Similarity Probability: 0.0014
+  Text: Moufles  maille noir avec un bord fourrure, s'adaptent à votre main
+  Similarity Probability: 0.0001
+  Text: Chausson noir avec rayures, confort et esthétisme. Intérieur velours
+  Similarity Probability: 0.0002
+  Text: Gants gris fibres polyester recyclé, matière douce et très confortable
+  Similarity Probability: 0.0000
+  Text: Tong sport confort rose et noire garantie maintien, confort et légèreté
+  Similarity Probability: 0.0038
+  Text: Parapluie canne motif fleur, solidité, automatique et déperlant
+  Similarity Probability: 0.0000
+  Text: Parapluie imprimé à pois, prix bas, ouverture manuelle, solide
+  Similarity Probability: 0.0001
+  Text: Parapluie automatique X-tra Solide, innovation technologique solide
+  Similarity Probability: 0.0004
+  Text: Ceinture marron clair, noire, réversible, ajustable, effet grainé
+  Similarity Probability: 0.0000
+  Text: Ceinture robuste, uniforme, couleur noire, matière en tissu tressé
+  Similarity Probability: 0.0001
+  Text: Casquette beige en coton, confortable, protection maximum contre le soleil
+  Similarity Probability: 0.0000
+  Text: Chapeau trilby en paille, idéal pour été, robuste, léger et confortable
+  Similarity Probability: 0.0006
+  Text: Lunettes de soleil enfant de 2 à 3 ans, verres protection des yeux
+  Similarity Probability: 0.0000
+  Text: Gants femme gris, noir taille unique, protection contre le froid
+  Similarity Probability: 0.0001
+  Text: Gants long femme rouge bordeaux, doublés polaire, élégance, look tendance
+  Similarity Probability: 0.0000
+  Text: Tour de cou maille rouge, pour homme protège du froid, pour hiver
+  Similarity Probability: 0.0024
+  Text: Tong fuchsia ergonomique, confort optimal tout au long de votre journée
+  Similarity Probability: 0.0032
+  Text: Bonnet marine homme, doublé polaire, confort, finitions torsades et maille
+  Similarity Probability: 0.0013
+
+Image: 43.png
+  Text: portefeuille homme deux volets simili cuir grainé couleur marron
+  Similarity Probability: 0.0000
+  Text: Botte de pluie chelsea bleue plus légère et confortable
+  Similarity Probability: 0.0041
+  Text: Botte de pluie jaune pour enfant plus légère et confortable
+  Similarity Probability: 0.9957
+  Text: Ballerine grand nœud grise en polaire recyclée, semelle cuir souple
+  Similarity Probability: 0.0000
+  Text: Moufles  maille noir avec un bord fourrure, s'adaptent à votre main
+  Similarity Probability: 0.0000
+  Text: Chausson noir avec rayures, confort et esthétisme. Intérieur velours
+  Similarity Probability: 0.0000
+  Text: Gants gris fibres polyester recyclé, matière douce et très confortable
+  Similarity Probability: 0.0000
+  Text: Tong sport confort rose et noire garantie maintien, confort et légèreté
+  Similarity Probability: 0.0000
+  Text: Parapluie canne motif fleur, solidité, automatique et déperlant
+  Similarity Probability: 0.0000
+  Text: Parapluie imprimé à pois, prix bas, ouverture manuelle, solide
+  Similarity Probability: 0.0000
+  Text: Parapluie automatique X-tra Solide, innovation technologique solide
+  Similarity Probability: 0.0000
+  Text: Ceinture marron clair, noire, réversible, ajustable, effet grainé
+  Similarity Probability: 0.0000
+  Text: Ceinture robuste, uniforme, couleur noire, matière en tissu tressé
+  Similarity Probability: 0.0000
+  Text: Casquette beige en coton, confortable, protection maximum contre le soleil
+  Similarity Probability: 0.0000
+  Text: Chapeau trilby en paille, idéal pour été, robuste, léger et confortable
+  Similarity Probability: 0.0000
+  Text: Lunettes de soleil enfant de 2 à 3 ans, verres protection des yeux
+  Similarity Probability: 0.0000
+  Text: Gants femme gris, noir taille unique, protection contre le froid
+  Similarity Probability: 0.0000
+  Text: Gants long femme rouge bordeaux, doublés polaire, élégance, look tendance
+  Similarity Probability: 0.0000
+  Text: Tour de cou maille rouge, pour homme protège du froid, pour hiver
+  Similarity Probability: 0.0000
+  Text: Tong fuchsia ergonomique, confort optimal tout au long de votre journée
+  Similarity Probability: 0.0000
+  Text: Bonnet marine homme, doublé polaire, confort, finitions torsades et maille
+  Similarity Probability: 0.0000
+
+Image: 235.png
+  Text: portefeuille homme deux volets simili cuir grainé couleur marron
+  Similarity Probability: 0.1328
+  Text: Botte de pluie chelsea bleue plus légère et confortable
+  Similarity Probability: 0.1638
+  Text: Botte de pluie jaune pour enfant plus légère et confortable
+  Similarity Probability: 0.0013
+  Text: Ballerine grand nœud grise en polaire recyclée, semelle cuir souple
+  Similarity Probability: 0.0642
+  Text: Moufles  maille noir avec un bord fourrure, s'adaptent à votre main
+  Similarity Probability: 0.0026
+  Text: Chausson noir avec rayures, confort et esthétisme. Intérieur velours
+  Similarity Probability: 0.0088
+  Text: Gants gris fibres polyester recyclé, matière douce et très confortable
+  Similarity Probability: 0.0060
+  Text: Tong sport confort rose et noire garantie maintien, confort et légèreté
+  Similarity Probability: 0.3802
+  Text: Parapluie canne motif fleur, solidité, automatique et déperlant
+  Similarity Probability: 0.0003
+  Text: Parapluie imprimé à pois, prix bas, ouverture manuelle, solide
+  Similarity Probability: 0.0003
+  Text: Parapluie automatique X-tra Solide, innovation technologique solide
+  Similarity Probability: 0.0004
+  Text: Ceinture marron clair, noire, réversible, ajustable, effet grainé
+  Similarity Probability: 0.0214
+  Text: Ceinture robuste, uniforme, couleur noire, matière en tissu tressé
+  Similarity Probability: 0.0305
+  Text: Casquette beige en coton, confortable, protection maximum contre le soleil
+  Similarity Probability: 0.0062
+  Text: Chapeau trilby en paille, idéal pour été, robuste, léger et confortable
+  Similarity Probability: 0.0237
+  Text: Lunettes de soleil enfant de 2 à 3 ans, verres protection des yeux
+  Similarity Probability: 0.0057
+  Text: Gants femme gris, noir taille unique, protection contre le froid
+  Similarity Probability: 0.0112
+  Text: Gants long femme rouge bordeaux, doublés polaire, élégance, look tendance
+  Similarity Probability: 0.0017
+  Text: Tour de cou maille rouge, pour homme protège du froid, pour hiver
+  Similarity Probability: 0.0058
+  Text: Tong fuchsia ergonomique, confort optimal tout au long de votre journée
+  Similarity Probability: 0.0217
+  Text: Bonnet marine homme, doublé polaire, confort, finitions torsades et maille
+  Similarity Probability: 0.1114
+
+Image: 294.png
+  Text: portefeuille homme deux volets simili cuir grainé couleur marron
+  Similarity Probability: 0.0065
+  Text: Botte de pluie chelsea bleue plus légère et confortable
+  Similarity Probability: 0.0030
+  Text: Botte de pluie jaune pour enfant plus légère et confortable
+  Similarity Probability: 0.0003
+  Text: Ballerine grand nœud grise en polaire recyclée, semelle cuir souple
+  Similarity Probability: 0.0003
+  Text: Moufles  maille noir avec un bord fourrure, s'adaptent à votre main
+  Similarity Probability: 0.0237
+  Text: Chausson noir avec rayures, confort et esthétisme. Intérieur velours
+  Similarity Probability: 0.0039
+  Text: Gants gris fibres polyester recyclé, matière douce et très confortable
+  Similarity Probability: 0.0189
+  Text: Tong sport confort rose et noire garantie maintien, confort et légèreté
+  Similarity Probability: 0.0301
+  Text: Parapluie canne motif fleur, solidité, automatique et déperlant
+  Similarity Probability: 0.0002
+  Text: Parapluie imprimé à pois, prix bas, ouverture manuelle, solide
+  Similarity Probability: 0.0005
+  Text: Parapluie automatique X-tra Solide, innovation technologique solide
+  Similarity Probability: 0.0003
+  Text: Ceinture marron clair, noire, réversible, ajustable, effet grainé
+  Similarity Probability: 0.0035
+  Text: Ceinture robuste, uniforme, couleur noire, matière en tissu tressé
+  Similarity Probability: 0.0466
+  Text: Casquette beige en coton, confortable, protection maximum contre le soleil
+  Similarity Probability: 0.0005
+  Text: Chapeau trilby en paille, idéal pour été, robuste, léger et confortable
+  Similarity Probability: 0.0775
+  Text: Lunettes de soleil enfant de 2 à 3 ans, verres protection des yeux
+  Similarity Probability: 0.0000
+  Text: Gants femme gris, noir taille unique, protection contre le froid
+  Similarity Probability: 0.4883
+  Text: Gants long femme rouge bordeaux, doublés polaire, élégance, look tendance
+  Similarity Probability: 0.0099
+  Text: Tour de cou maille rouge, pour homme protège du froid, pour hiver
+  Similarity Probability: 0.1620
+  Text: Tong fuchsia ergonomique, confort optimal tout au long de votre journée
+  Similarity Probability: 0.0032
+  Text: Bonnet marine homme, doublé polaire, confort, finitions torsades et maille
+  Similarity Probability: 0.1208
+
+Image: 466.png
+  Text: portefeuille homme deux volets simili cuir grainé couleur marron
+  Similarity Probability: 0.0789
+  Text: Botte de pluie chelsea bleue plus légère et confortable
+  Similarity Probability: 0.0294
+  Text: Botte de pluie jaune pour enfant plus légère et confortable
+  Similarity Probability: 0.0006
+  Text: Ballerine grand nœud grise en polaire recyclée, semelle cuir souple
+  Similarity Probability: 0.0135
+  Text: Moufles  maille noir avec un bord fourrure, s'adaptent à votre main
+  Similarity Probability: 0.0012
+  Text: Chausson noir avec rayures, confort et esthétisme. Intérieur velours
+  Similarity Probability: 0.0104
+  Text: Gants gris fibres polyester recyclé, matière douce et très confortable
+  Similarity Probability: 0.0001
+  Text: Tong sport confort rose et noire garantie maintien, confort et légèreté
+  Similarity Probability: 0.5226
+  Text: Parapluie canne motif fleur, solidité, automatique et déperlant
+  Similarity Probability: 0.0001
+  Text: Parapluie imprimé à pois, prix bas, ouverture manuelle, solide
+  Similarity Probability: 0.0003
+  Text: Parapluie automatique X-tra Solide, innovation technologique solide
+  Similarity Probability: 0.0002
+  Text: Ceinture marron clair, noire, réversible, ajustable, effet grainé
+  Similarity Probability: 0.0009
+  Text: Ceinture robuste, uniforme, couleur noire, matière en tissu tressé
+  Similarity Probability: 0.0147
+  Text: Casquette beige en coton, confortable, protection maximum contre le soleil
+  Similarity Probability: 0.0001
+  Text: Chapeau trilby en paille, idéal pour été, robuste, léger et confortable
+  Similarity Probability: 0.0023
+  Text: Lunettes de soleil enfant de 2 à 3 ans, verres protection des yeux
+  Similarity Probability: 0.0002
+  Text: Gants femme gris, noir taille unique, protection contre le froid
+  Similarity Probability: 0.0006
+  Text: Gants long femme rouge bordeaux, doublés polaire, élégance, look tendance
+  Similarity Probability: 0.0007
+  Text: Tour de cou maille rouge, pour homme protège du froid, pour hiver
+  Similarity Probability: 0.0008
+  Text: Tong fuchsia ergonomique, confort optimal tout au long de votre journée
+  Similarity Probability: 0.3172
+  Text: Bonnet marine homme, doublé polaire, confort, finitions torsades et maille
+  Similarity Probability: 0.0051
+
+Image: 1305.png
+  Text: portefeuille homme deux volets simili cuir grainé couleur marron
+  Similarity Probability: 0.0008
+  Text: Botte de pluie chelsea bleue plus légère et confortable
+  Similarity Probability: 0.0000
+  Text: Botte de pluie jaune pour enfant plus légère et confortable
+  Similarity Probability: 0.0000
+  Text: Ballerine grand nœud grise en polaire recyclée, semelle cuir souple
+  Similarity Probability: 0.0000
+  Text: Moufles  maille noir avec un bord fourrure, s'adaptent à votre main
+  Similarity Probability: 0.0001
+  Text: Chausson noir avec rayures, confort et esthétisme. Intérieur velours
+  Similarity Probability: 0.0001
+  Text: Gants gris fibres polyester recyclé, matière douce et très confortable
+  Similarity Probability: 0.5460
+  Text: Tong sport confort rose et noire garantie maintien, confort et légèreté
+  Similarity Probability: 0.0025
+  Text: Parapluie canne motif fleur, solidité, automatique et déperlant
+  Similarity Probability: 0.0000
+  Text: Parapluie imprimé à pois, prix bas, ouverture manuelle, solide
+  Similarity Probability: 0.0000
+  Text: Parapluie automatique X-tra Solide, innovation technologique solide
+  Similarity Probability: 0.0000
+  Text: Ceinture marron clair, noire, réversible, ajustable, effet grainé
+  Similarity Probability: 0.0000
+  Text: Ceinture robuste, uniforme, couleur noire, matière en tissu tressé
+  Similarity Probability: 0.0000
+  Text: Casquette beige en coton, confortable, protection maximum contre le soleil
+  Similarity Probability: 0.0000
+  Text: Chapeau trilby en paille, idéal pour été, robuste, léger et confortable
+  Similarity Probability: 0.0001
+  Text: Lunettes de soleil enfant de 2 à 3 ans, verres protection des yeux
+  Similarity Probability: 0.0000
+  Text: Gants femme gris, noir taille unique, protection contre le froid
+  Similarity Probability: 0.4333
+  Text: Gants long femme rouge bordeaux, doublés polaire, élégance, look tendance
+  Similarity Probability: 0.0153
+  Text: Tour de cou maille rouge, pour homme protège du froid, pour hiver
+  Similarity Probability: 0.0009
+  Text: Tong fuchsia ergonomique, confort optimal tout au long de votre journée
+  Similarity Probability: 0.0002
+  Text: Bonnet marine homme, doublé polaire, confort, finitions torsades et maille
+  Similarity Probability: 0.0008
+
+Image: 1409.jpg
+  Text: portefeuille homme deux volets simili cuir grainé couleur marron
+  Similarity Probability: 0.0039
+  Text: Botte de pluie chelsea bleue plus légère et confortable
+  Similarity Probability: 0.0150
+  Text: Botte de pluie jaune pour enfant plus légère et confortable
+  Similarity Probability: 0.0017
+  Text: Ballerine grand nœud grise en polaire recyclée, semelle cuir souple
+  Similarity Probability: 0.0724
+  Text: Moufles  maille noir avec un bord fourrure, s'adaptent à votre main
+  Similarity Probability: 0.0028
+  Text: Chausson noir avec rayures, confort et esthétisme. Intérieur velours
+  Similarity Probability: 0.0026
+  Text: Gants gris fibres polyester recyclé, matière douce et très confortable
+  Similarity Probability: 0.0000
+  Text: Tong sport confort rose et noire garantie maintien, confort et légèreté
+  Similarity Probability: 0.3554
+  Text: Parapluie canne motif fleur, solidité, automatique et déperlant
+  Similarity Probability: 0.0000
+  Text: Parapluie imprimé à pois, prix bas, ouverture manuelle, solide
+  Similarity Probability: 0.0004
+  Text: Parapluie automatique X-tra Solide, innovation technologique solide
+  Similarity Probability: 0.0002
+  Text: Ceinture marron clair, noire, réversible, ajustable, effet grainé
+  Similarity Probability: 0.0009
+  Text: Ceinture robuste, uniforme, couleur noire, matière en tissu tressé
+  Similarity Probability: 0.0051
+  Text: Casquette beige en coton, confortable, protection maximum contre le soleil
+  Similarity Probability: 0.0000
+  Text: Chapeau trilby en paille, idéal pour été, robuste, léger et confortable
+  Similarity Probability: 0.0006
+  Text: Lunettes de soleil enfant de 2 à 3 ans, verres protection des yeux
+  Similarity Probability: 0.0026
+  Text: Gants femme gris, noir taille unique, protection contre le froid
+  Similarity Probability: 0.0000
+  Text: Gants long femme rouge bordeaux, doublés polaire, élégance, look tendance
+  Similarity Probability: 0.0003
+  Text: Tour de cou maille rouge, pour homme protège du froid, pour hiver
+  Similarity Probability: 0.0002
+  Text: Tong fuchsia ergonomique, confort optimal tout au long de votre journée
+  Similarity Probability: 0.5357
+  Text: Bonnet marine homme, doublé polaire, confort, finitions torsades et maille
+  Similarity Probability: 0.0002
+
+Image: 1527.png
+  Text: portefeuille homme deux volets simili cuir grainé couleur marron
+  Similarity Probability: 0.0000
+  Text: Botte de pluie chelsea bleue plus légère et confortable
+  Similarity Probability: 0.0020
+  Text: Botte de pluie jaune pour enfant plus légère et confortable
+  Similarity Probability: 0.0001
+  Text: Ballerine grand nœud grise en polaire recyclée, semelle cuir souple
+  Similarity Probability: 0.0000
+  Text: Moufles  maille noir avec un bord fourrure, s'adaptent à votre main
+  Similarity Probability: 0.0000
+  Text: Chausson noir avec rayures, confort et esthétisme. Intérieur velours
+  Similarity Probability: 0.0001
+  Text: Gants gris fibres polyester recyclé, matière douce et très confortable
+  Similarity Probability: 0.0000
+  Text: Tong sport confort rose et noire garantie maintien, confort et légèreté
+  Similarity Probability: 0.0001
+  Text: Parapluie canne motif fleur, solidité, automatique et déperlant
+  Similarity Probability: 0.9855
+  Text: Parapluie imprimé à pois, prix bas, ouverture manuelle, solide
+  Similarity Probability: 0.0032
+  Text: Parapluie automatique X-tra Solide, innovation technologique solide
+  Similarity Probability: 0.0087
+  Text: Ceinture marron clair, noire, réversible, ajustable, effet grainé
+  Similarity Probability: 0.0000
+  Text: Ceinture robuste, uniforme, couleur noire, matière en tissu tressé
+  Similarity Probability: 0.0000
+  Text: Casquette beige en coton, confortable, protection maximum contre le soleil
+  Similarity Probability: 0.0000
+  Text: Chapeau trilby en paille, idéal pour été, robuste, léger et confortable
+  Similarity Probability: 0.0000
+  Text: Lunettes de soleil enfant de 2 à 3 ans, verres protection des yeux
+  Similarity Probability: 0.0000
+  Text: Gants femme gris, noir taille unique, protection contre le froid
+  Similarity Probability: 0.0000
+  Text: Gants long femme rouge bordeaux, doublés polaire, élégance, look tendance
+  Similarity Probability: 0.0000
+  Text: Tour de cou maille rouge, pour homme protège du froid, pour hiver
+  Similarity Probability: 0.0000
+  Text: Tong fuchsia ergonomique, confort optimal tout au long de votre journée
+  Similarity Probability: 0.0001
+  Text: Bonnet marine homme, doublé polaire, confort, finitions torsades et maille
+  Similarity Probability: 0.0001
+
+Image: 1529.png
+  Text: portefeuille homme deux volets simili cuir grainé couleur marron
+  Similarity Probability: 0.0045
+  Text: Botte de pluie chelsea bleue plus légère et confortable
+  Similarity Probability: 0.0000
+  Text: Botte de pluie jaune pour enfant plus légère et confortable
+  Similarity Probability: 0.0000
+  Text: Ballerine grand nœud grise en polaire recyclée, semelle cuir souple
+  Similarity Probability: 0.0000
+  Text: Moufles  maille noir avec un bord fourrure, s'adaptent à votre main
+  Similarity Probability: 0.0058
+  Text: Chausson noir avec rayures, confort et esthétisme. Intérieur velours
+  Similarity Probability: 0.0022
+  Text: Gants gris fibres polyester recyclé, matière douce et très confortable
+  Similarity Probability: 0.0000
+  Text: Tong sport confort rose et noire garantie maintien, confort et légèreté
+  Similarity Probability: 0.7368
+  Text: Parapluie canne motif fleur, solidité, automatique et déperlant
+  Similarity Probability: 0.0008
+  Text: Parapluie imprimé à pois, prix bas, ouverture manuelle, solide
+  Similarity Probability: 0.0014
+  Text: Parapluie automatique X-tra Solide, innovation technologique solide
+  Similarity Probability: 0.0062
+  Text: Ceinture marron clair, noire, réversible, ajustable, effet grainé
+  Similarity Probability: 0.0012
+  Text: Ceinture robuste, uniforme, couleur noire, matière en tissu tressé
+  Similarity Probability: 0.0985
+  Text: Casquette beige en coton, confortable, protection maximum contre le soleil
+  Similarity Probability: 0.0000
+  Text: Chapeau trilby en paille, idéal pour été, robuste, léger et confortable
+  Similarity Probability: 0.0002
+  Text: Lunettes de soleil enfant de 2 à 3 ans, verres protection des yeux
+  Similarity Probability: 0.0000
+  Text: Gants femme gris, noir taille unique, protection contre le froid
+  Similarity Probability: 0.0009
+  Text: Gants long femme rouge bordeaux, doublés polaire, élégance, look tendance
+  Similarity Probability: 0.0009
+  Text: Tour de cou maille rouge, pour homme protège du froid, pour hiver
+  Similarity Probability: 0.0618
+  Text: Tong fuchsia ergonomique, confort optimal tout au long de votre journée
+  Similarity Probability: 0.0641
+  Text: Bonnet marine homme, doublé polaire, confort, finitions torsades et maille
+  Similarity Probability: 0.0149
+
+Image: 1532.png
+  Text: portefeuille homme deux volets simili cuir grainé couleur marron
+  Similarity Probability: 0.0003
+  Text: Botte de pluie chelsea bleue plus légère et confortable
+  Similarity Probability: 0.0001
+  Text: Botte de pluie jaune pour enfant plus légère et confortable
+  Similarity Probability: 0.0001
+  Text: Ballerine grand nœud grise en polaire recyclée, semelle cuir souple
+  Similarity Probability: 0.0001
+  Text: Moufles  maille noir avec un bord fourrure, s'adaptent à votre main
+  Similarity Probability: 0.0115
+  Text: Chausson noir avec rayures, confort et esthétisme. Intérieur velours
+  Similarity Probability: 0.0139
+  Text: Gants gris fibres polyester recyclé, matière douce et très confortable
+  Similarity Probability: 0.0000
+  Text: Tong sport confort rose et noire garantie maintien, confort et légèreté
+  Similarity Probability: 0.9136
+  Text: Parapluie canne motif fleur, solidité, automatique et déperlant
+  Similarity Probability: 0.0000
+  Text: Parapluie imprimé à pois, prix bas, ouverture manuelle, solide
+  Similarity Probability: 0.0009
+  Text: Parapluie automatique X-tra Solide, innovation technologique solide
+  Similarity Probability: 0.0063
+  Text: Ceinture marron clair, noire, réversible, ajustable, effet grainé
+  Similarity Probability: 0.0001
+  Text: Ceinture robuste, uniforme, couleur noire, matière en tissu tressé
+  Similarity Probability: 0.0070
+  Text: Casquette beige en coton, confortable, protection maximum contre le soleil
+  Similarity Probability: 0.0000
+  Text: Chapeau trilby en paille, idéal pour été, robuste, léger et confortable
+  Similarity Probability: 0.0002
+  Text: Lunettes de soleil enfant de 2 à 3 ans, verres protection des yeux
+  Similarity Probability: 0.0004
+  Text: Gants femme gris, noir taille unique, protection contre le froid
+  Similarity Probability: 0.0005
+  Text: Gants long femme rouge bordeaux, doublés polaire, élégance, look tendance
+  Similarity Probability: 0.0000
+  Text: Tour de cou maille rouge, pour homme protège du froid, pour hiver
+  Similarity Probability: 0.0252
+  Text: Tong fuchsia ergonomique, confort optimal tout au long de votre journée
+  Similarity Probability: 0.0174
+  Text: Bonnet marine homme, doublé polaire, confort, finitions torsades et maille
+  Similarity Probability: 0.0024
+
+Image: 1650.jpg
+  Text: portefeuille homme deux volets simili cuir grainé couleur marron
+  Similarity Probability: 0.3900
+  Text: Botte de pluie chelsea bleue plus légère et confortable
+  Similarity Probability: 0.0000
+  Text: Botte de pluie jaune pour enfant plus légère et confortable
+  Similarity Probability: 0.0000
+  Text: Ballerine grand nœud grise en polaire recyclée, semelle cuir souple
+  Similarity Probability: 0.0004
+  Text: Moufles  maille noir avec un bord fourrure, s'adaptent à votre main
+  Similarity Probability: 0.0000
+  Text: Chausson noir avec rayures, confort et esthétisme. Intérieur velours
+  Similarity Probability: 0.0001
+  Text: Gants gris fibres polyester recyclé, matière douce et très confortable
+  Similarity Probability: 0.0000
+  Text: Tong sport confort rose et noire garantie maintien, confort et légèreté
+  Similarity Probability: 0.0014
+  Text: Parapluie canne motif fleur, solidité, automatique et déperlant
+  Similarity Probability: 0.0000
+  Text: Parapluie imprimé à pois, prix bas, ouverture manuelle, solide
+  Similarity Probability: 0.0000
+  Text: Parapluie automatique X-tra Solide, innovation technologique solide
+  Similarity Probability: 0.0000
+  Text: Ceinture marron clair, noire, réversible, ajustable, effet grainé
+  Similarity Probability: 0.5845
+  Text: Ceinture robuste, uniforme, couleur noire, matière en tissu tressé
+  Similarity Probability: 0.0231
+  Text: Casquette beige en coton, confortable, protection maximum contre le soleil
+  Similarity Probability: 0.0000
+  Text: Chapeau trilby en paille, idéal pour été, robuste, léger et confortable
+  Similarity Probability: 0.0003
+  Text: Lunettes de soleil enfant de 2 à 3 ans, verres protection des yeux
+  Similarity Probability: 0.0000
+  Text: Gants femme gris, noir taille unique, protection contre le froid
+  Similarity Probability: 0.0000
+  Text: Gants long femme rouge bordeaux, doublés polaire, élégance, look tendance
+  Similarity Probability: 0.0000
+  Text: Tour de cou maille rouge, pour homme protège du froid, pour hiver
+  Similarity Probability: 0.0000
+  Text: Tong fuchsia ergonomique, confort optimal tout au long de votre journée
+  Similarity Probability: 0.0000
+  Text: Bonnet marine homme, doublé polaire, confort, finitions torsades et maille
+  Similarity Probability: 0.0001
+
+Image: 1658.png
+  Text: portefeuille homme deux volets simili cuir grainé couleur marron
+  Similarity Probability: 0.0123
+  Text: Botte de pluie chelsea bleue plus légère et confortable
+  Similarity Probability: 0.0004
+  Text: Botte de pluie jaune pour enfant plus légère et confortable
+  Similarity Probability: 0.0001
+  Text: Ballerine grand nœud grise en polaire recyclée, semelle cuir souple
+  Similarity Probability: 0.0004
+  Text: Moufles  maille noir avec un bord fourrure, s'adaptent à votre main
+  Similarity Probability: 0.0025
+  Text: Chausson noir avec rayures, confort et esthétisme. Intérieur velours
+  Similarity Probability: 0.0118
+  Text: Gants gris fibres polyester recyclé, matière douce et très confortable
+  Similarity Probability: 0.0001
+  Text: Tong sport confort rose et noire garantie maintien, confort et légèreté
+  Similarity Probability: 0.0857
+  Text: Parapluie canne motif fleur, solidité, automatique et déperlant
+  Similarity Probability: 0.0000
+  Text: Parapluie imprimé à pois, prix bas, ouverture manuelle, solide
+  Similarity Probability: 0.0003
+  Text: Parapluie automatique X-tra Solide, innovation technologique solide
+  Similarity Probability: 0.0007
+  Text: Ceinture marron clair, noire, réversible, ajustable, effet grainé
+  Similarity Probability: 0.1876
+  Text: Ceinture robuste, uniforme, couleur noire, matière en tissu tressé
+  Similarity Probability: 0.6891
+  Text: Casquette beige en coton, confortable, protection maximum contre le soleil
+  Similarity Probability: 0.0000
+  Text: Chapeau trilby en paille, idéal pour été, robuste, léger et confortable
+  Similarity Probability: 0.0009
+  Text: Lunettes de soleil enfant de 2 à 3 ans, verres protection des yeux
+  Similarity Probability: 0.0000
+  Text: Gants femme gris, noir taille unique, protection contre le froid
+  Similarity Probability: 0.0033
+  Text: Gants long femme rouge bordeaux, doublés polaire, élégance, look tendance
+  Similarity Probability: 0.0000
+  Text: Tour de cou maille rouge, pour homme protège du froid, pour hiver
+  Similarity Probability: 0.0023
+  Text: Tong fuchsia ergonomique, confort optimal tout au long de votre journée
+  Similarity Probability: 0.0018
+  Text: Bonnet marine homme, doublé polaire, confort, finitions torsades et maille
+  Similarity Probability: 0.0007
+
+Image: 1734.png
+  Text: portefeuille homme deux volets simili cuir grainé couleur marron
+  Similarity Probability: 0.0025
+  Text: Botte de pluie chelsea bleue plus légère et confortable
+  Similarity Probability: 0.0000
+  Text: Botte de pluie jaune pour enfant plus légère et confortable
+  Similarity Probability: 0.0000
+  Text: Ballerine grand nœud grise en polaire recyclée, semelle cuir souple
+  Similarity Probability: 0.0000
+  Text: Moufles  maille noir avec un bord fourrure, s'adaptent à votre main
+  Similarity Probability: 0.0000
+  Text: Chausson noir avec rayures, confort et esthétisme. Intérieur velours
+  Similarity Probability: 0.0000
+  Text: Gants gris fibres polyester recyclé, matière douce et très confortable
+  Similarity Probability: 0.0000
+  Text: Tong sport confort rose et noire garantie maintien, confort et légèreté
+  Similarity Probability: 0.0001
+  Text: Parapluie canne motif fleur, solidité, automatique et déperlant
+  Similarity Probability: 0.0000
+  Text: Parapluie imprimé à pois, prix bas, ouverture manuelle, solide
+  Similarity Probability: 0.0000
+  Text: Parapluie automatique X-tra Solide, innovation technologique solide
+  Similarity Probability: 0.0000
+  Text: Ceinture marron clair, noire, réversible, ajustable, effet grainé
+  Similarity Probability: 0.0000
+  Text: Ceinture robuste, uniforme, couleur noire, matière en tissu tressé
+  Similarity Probability: 0.0000
+  Text: Casquette beige en coton, confortable, protection maximum contre le soleil
+  Similarity Probability: 0.9445
+  Text: Chapeau trilby en paille, idéal pour été, robuste, léger et confortable
+  Similarity Probability: 0.0360
+  Text: Lunettes de soleil enfant de 2 à 3 ans, verres protection des yeux
+  Similarity Probability: 0.0000
+  Text: Gants femme gris, noir taille unique, protection contre le froid
+  Similarity Probability: 0.0000
+  Text: Gants long femme rouge bordeaux, doublés polaire, élégance, look tendance
+  Similarity Probability: 0.0000
+  Text: Tour de cou maille rouge, pour homme protège du froid, pour hiver
+  Similarity Probability: 0.0000
+  Text: Tong fuchsia ergonomique, confort optimal tout au long de votre journée
+  Similarity Probability: 0.0000
+  Text: Bonnet marine homme, doublé polaire, confort, finitions torsades et maille
+  Similarity Probability: 0.0168
+
+Image: 1737.png
+  Text: portefeuille homme deux volets simili cuir grainé couleur marron
+  Similarity Probability: 0.0006
+  Text: Botte de pluie chelsea bleue plus légère et confortable
+  Similarity Probability: 0.0000
+  Text: Botte de pluie jaune pour enfant plus légère et confortable
+  Similarity Probability: 0.0000
+  Text: Ballerine grand nœud grise en polaire recyclée, semelle cuir souple
+  Similarity Probability: 0.0000
+  Text: Moufles  maille noir avec un bord fourrure, s'adaptent à votre main
+  Similarity Probability: 0.0000
+  Text: Chausson noir avec rayures, confort et esthétisme. Intérieur velours
+  Similarity Probability: 0.0000
+  Text: Gants gris fibres polyester recyclé, matière douce et très confortable
+  Similarity Probability: 0.0000
+  Text: Tong sport confort rose et noire garantie maintien, confort et légèreté
+  Similarity Probability: 0.0002
+  Text: Parapluie canne motif fleur, solidité, automatique et déperlant
+  Similarity Probability: 0.0000
+  Text: Parapluie imprimé à pois, prix bas, ouverture manuelle, solide
+  Similarity Probability: 0.0000
+  Text: Parapluie automatique X-tra Solide, innovation technologique solide
+  Similarity Probability: 0.0000
+  Text: Ceinture marron clair, noire, réversible, ajustable, effet grainé
+  Similarity Probability: 0.0000
+  Text: Ceinture robuste, uniforme, couleur noire, matière en tissu tressé
+  Similarity Probability: 0.0002
+  Text: Casquette beige en coton, confortable, protection maximum contre le soleil
+  Similarity Probability: 0.4006
+  Text: Chapeau trilby en paille, idéal pour été, robuste, léger et confortable
+  Similarity Probability: 0.5856
+  Text: Lunettes de soleil enfant de 2 à 3 ans, verres protection des yeux
+  Similarity Probability: 0.0000
+  Text: Gants femme gris, noir taille unique, protection contre le froid
+  Similarity Probability: 0.0000
+  Text: Gants long femme rouge bordeaux, doublés polaire, élégance, look tendance
+  Similarity Probability: 0.0000
+  Text: Tour de cou maille rouge, pour homme protège du froid, pour hiver
+  Similarity Probability: 0.0000
+  Text: Tong fuchsia ergonomique, confort optimal tout au long de votre journée
+  Similarity Probability: 0.0000
+  Text: Bonnet marine homme, doublé polaire, confort, finitions torsades et maille
+  Similarity Probability: 0.0127
+
+Image: 1760.jpg
+  Text: portefeuille homme deux volets simili cuir grainé couleur marron
+  Similarity Probability: 0.0054
+  Text: Botte de pluie chelsea bleue plus légère et confortable
+  Similarity Probability: 0.0003
+  Text: Botte de pluie jaune pour enfant plus légère et confortable
+  Similarity Probability: 0.0000
+  Text: Ballerine grand nœud grise en polaire recyclée, semelle cuir souple
+  Similarity Probability: 0.0003
+  Text: Moufles  maille noir avec un bord fourrure, s'adaptent à votre main
+  Similarity Probability: 0.0002
+  Text: Chausson noir avec rayures, confort et esthétisme. Intérieur velours
+  Similarity Probability: 0.0004
+  Text: Gants gris fibres polyester recyclé, matière douce et très confortable
+  Similarity Probability: 0.0000
+  Text: Tong sport confort rose et noire garantie maintien, confort et légèreté
+  Similarity Probability: 0.0049
+  Text: Parapluie canne motif fleur, solidité, automatique et déperlant
+  Similarity Probability: 0.0000
+  Text: Parapluie imprimé à pois, prix bas, ouverture manuelle, solide
+  Similarity Probability: 0.0000
+  Text: Parapluie automatique X-tra Solide, innovation technologique solide
+  Similarity Probability: 0.0002
+  Text: Ceinture marron clair, noire, réversible, ajustable, effet grainé
+  Similarity Probability: 0.0003
+  Text: Ceinture robuste, uniforme, couleur noire, matière en tissu tressé
+  Similarity Probability: 0.0014
+  Text: Casquette beige en coton, confortable, protection maximum contre le soleil
+  Similarity Probability: 0.0002
+  Text: Chapeau trilby en paille, idéal pour été, robuste, léger et confortable
+  Similarity Probability: 0.0005
+  Text: Lunettes de soleil enfant de 2 à 3 ans, verres protection des yeux
+  Similarity Probability: 0.9841
+  Text: Gants femme gris, noir taille unique, protection contre le froid
+  Similarity Probability: 0.0000
+  Text: Gants long femme rouge bordeaux, doublés polaire, élégance, look tendance
+  Similarity Probability: 0.0000
+  Text: Tour de cou maille rouge, pour homme protège du froid, pour hiver
+  Similarity Probability: 0.0001
+  Text: Tong fuchsia ergonomique, confort optimal tout au long de votre journée
+  Similarity Probability: 0.0005
+  Text: Bonnet marine homme, doublé polaire, confort, finitions torsades et maille
+  Similarity Probability: 0.0012
+
+Image: 1874.jpg
+  Text: portefeuille homme deux volets simili cuir grainé couleur marron
+  Similarity Probability: 0.0008
+  Text: Botte de pluie chelsea bleue plus légère et confortable
+  Similarity Probability: 0.0000
+  Text: Botte de pluie jaune pour enfant plus légère et confortable
+  Similarity Probability: 0.0000
+  Text: Ballerine grand nœud grise en polaire recyclée, semelle cuir souple
+  Similarity Probability: 0.0000
+  Text: Moufles  maille noir avec un bord fourrure, s'adaptent à votre main
+  Similarity Probability: 0.0002
+  Text: Chausson noir avec rayures, confort et esthétisme. Intérieur velours
+  Similarity Probability: 0.0001
+  Text: Gants gris fibres polyester recyclé, matière douce et très confortable
+  Similarity Probability: 0.1225
+  Text: Tong sport confort rose et noire garantie maintien, confort et légèreté
+  Similarity Probability: 0.0030
+  Text: Parapluie canne motif fleur, solidité, automatique et déperlant
+  Similarity Probability: 0.0000
+  Text: Parapluie imprimé à pois, prix bas, ouverture manuelle, solide
+  Similarity Probability: 0.0000
+  Text: Parapluie automatique X-tra Solide, innovation technologique solide
+  Similarity Probability: 0.0000
+  Text: Ceinture marron clair, noire, réversible, ajustable, effet grainé
+  Similarity Probability: 0.0000
+  Text: Ceinture robuste, uniforme, couleur noire, matière en tissu tressé
+  Similarity Probability: 0.0001
+  Text: Casquette beige en coton, confortable, protection maximum contre le soleil
+  Similarity Probability: 0.0000
+  Text: Chapeau trilby en paille, idéal pour été, robuste, léger et confortable
+  Similarity Probability: 0.0000
+  Text: Lunettes de soleil enfant de 2 à 3 ans, verres protection des yeux
+  Similarity Probability: 0.0000
+  Text: Gants femme gris, noir taille unique, protection contre le froid
+  Similarity Probability: 0.8487
+  Text: Gants long femme rouge bordeaux, doublés polaire, élégance, look tendance
+  Similarity Probability: 0.0183
+  Text: Tour de cou maille rouge, pour homme protège du froid, pour hiver
+  Similarity Probability: 0.0051
+  Text: Tong fuchsia ergonomique, confort optimal tout au long de votre journée
+  Similarity Probability: 0.0001
+  Text: Bonnet marine homme, doublé polaire, confort, finitions torsades et maille
+  Similarity Probability: 0.0012
+
+Image: 1971.jpg
+  Text: portefeuille homme deux volets simili cuir grainé couleur marron
+  Similarity Probability: 0.0439
+  Text: Botte de pluie chelsea bleue plus légère et confortable
+  Similarity Probability: 0.0000
+  Text: Botte de pluie jaune pour enfant plus légère et confortable
+  Similarity Probability: 0.0000
+  Text: Ballerine grand nœud grise en polaire recyclée, semelle cuir souple
+  Similarity Probability: 0.0000
+  Text: Moufles  maille noir avec un bord fourrure, s'adaptent à votre main
+  Similarity Probability: 0.0000
+  Text: Chausson noir avec rayures, confort et esthétisme. Intérieur velours
+  Similarity Probability: 0.0000
+  Text: Gants gris fibres polyester recyclé, matière douce et très confortable
+  Similarity Probability: 0.0032
+  Text: Tong sport confort rose et noire garantie maintien, confort et légèreté
+  Similarity Probability: 0.0041
+  Text: Parapluie canne motif fleur, solidité, automatique et déperlant
+  Similarity Probability: 0.0000
+  Text: Parapluie imprimé à pois, prix bas, ouverture manuelle, solide
+  Similarity Probability: 0.0000
+  Text: Parapluie automatique X-tra Solide, innovation technologique solide
+  Similarity Probability: 0.0000
+  Text: Ceinture marron clair, noire, réversible, ajustable, effet grainé
+  Similarity Probability: 0.0000
+  Text: Ceinture robuste, uniforme, couleur noire, matière en tissu tressé
+  Similarity Probability: 0.0000
+  Text: Casquette beige en coton, confortable, protection maximum contre le soleil
+  Similarity Probability: 0.0000
+  Text: Chapeau trilby en paille, idéal pour été, robuste, léger et confortable
+  Similarity Probability: 0.0000
+  Text: Lunettes de soleil enfant de 2 à 3 ans, verres protection des yeux
+  Similarity Probability: 0.0000
+  Text: Gants femme gris, noir taille unique, protection contre le froid
+  Similarity Probability: 0.0815
+  Text: Gants long femme rouge bordeaux, doublés polaire, élégance, look tendance
+  Similarity Probability: 0.8634
+  Text: Tour de cou maille rouge, pour homme protège du froid, pour hiver
+  Similarity Probability: 0.0017
+  Text: Tong fuchsia ergonomique, confort optimal tout au long de votre journée
+  Similarity Probability: 0.0020
+  Text: Bonnet marine homme, doublé polaire, confort, finitions torsades et maille
+  Similarity Probability: 0.0001
+
+Image: 1983.jpg
+  Text: portefeuille homme deux volets simili cuir grainé couleur marron
+  Similarity Probability: 0.1272
+  Text: Botte de pluie chelsea bleue plus légère et confortable
+  Similarity Probability: 0.0001
+  Text: Botte de pluie jaune pour enfant plus légère et confortable
+  Similarity Probability: 0.0000
+  Text: Ballerine grand nœud grise en polaire recyclée, semelle cuir souple
+  Similarity Probability: 0.0005
+  Text: Moufles  maille noir avec un bord fourrure, s'adaptent à votre main
+  Similarity Probability: 0.0003
+  Text: Chausson noir avec rayures, confort et esthétisme. Intérieur velours
+  Similarity Probability: 0.0003
+  Text: Gants gris fibres polyester recyclé, matière douce et très confortable
+  Similarity Probability: 0.0046
+  Text: Tong sport confort rose et noire garantie maintien, confort et légèreté
+  Similarity Probability: 0.0827
+  Text: Parapluie canne motif fleur, solidité, automatique et déperlant
+  Similarity Probability: 0.0000
+  Text: Parapluie imprimé à pois, prix bas, ouverture manuelle, solide
+  Similarity Probability: 0.0001
+  Text: Parapluie automatique X-tra Solide, innovation technologique solide
+  Similarity Probability: 0.0000
+  Text: Ceinture marron clair, noire, réversible, ajustable, effet grainé
+  Similarity Probability: 0.0229
+  Text: Ceinture robuste, uniforme, couleur noire, matière en tissu tressé
+  Similarity Probability: 0.1008
+  Text: Casquette beige en coton, confortable, protection maximum contre le soleil
+  Similarity Probability: 0.0002
+  Text: Chapeau trilby en paille, idéal pour été, robuste, léger et confortable
+  Similarity Probability: 0.0094
+  Text: Lunettes de soleil enfant de 2 à 3 ans, verres protection des yeux
+  Similarity Probability: 0.0002
+  Text: Gants femme gris, noir taille unique, protection contre le froid
+  Similarity Probability: 0.0004
+  Text: Gants long femme rouge bordeaux, doublés polaire, élégance, look tendance
+  Similarity Probability: 0.0518
+  Text: Tour de cou maille rouge, pour homme protège du froid, pour hiver
+  Similarity Probability: 0.3074
+  Text: Tong fuchsia ergonomique, confort optimal tout au long de votre journée
+  Similarity Probability: 0.1123
+  Text: Bonnet marine homme, doublé polaire, confort, finitions torsades et maille
+  Similarity Probability: 0.1787
+
+Image: 2202.jpg
+  Text: portefeuille homme deux volets simili cuir grainé couleur marron
+  Similarity Probability: 0.0034
+  Text: Botte de pluie chelsea bleue plus légère et confortable
+  Similarity Probability: 0.0027
+  Text: Botte de pluie jaune pour enfant plus légère et confortable
+  Similarity Probability: 0.0003
+  Text: Ballerine grand nœud grise en polaire recyclée, semelle cuir souple
+  Similarity Probability: 0.0076
+  Text: Moufles  maille noir avec un bord fourrure, s'adaptent à votre main
+  Similarity Probability: 0.0001
+  Text: Chausson noir avec rayures, confort et esthétisme. Intérieur velours
+  Similarity Probability: 0.0001
+  Text: Gants gris fibres polyester recyclé, matière douce et très confortable
+  Similarity Probability: 0.0000
+  Text: Tong sport confort rose et noire garantie maintien, confort et légèreté
+  Similarity Probability: 0.2066
+  Text: Parapluie canne motif fleur, solidité, automatique et déperlant
+  Similarity Probability: 0.0000
+  Text: Parapluie imprimé à pois, prix bas, ouverture manuelle, solide
+  Similarity Probability: 0.0001
+  Text: Parapluie automatique X-tra Solide, innovation technologique solide
+  Similarity Probability: 0.0001
+  Text: Ceinture marron clair, noire, réversible, ajustable, effet grainé
+  Similarity Probability: 0.0005
+  Text: Ceinture robuste, uniforme, couleur noire, matière en tissu tressé
+  Similarity Probability: 0.0007
+  Text: Casquette beige en coton, confortable, protection maximum contre le soleil
+  Similarity Probability: 0.0001
+  Text: Chapeau trilby en paille, idéal pour été, robuste, léger et confortable
+  Similarity Probability: 0.0003
+  Text: Lunettes de soleil enfant de 2 à 3 ans, verres protection des yeux
+  Similarity Probability: 0.0035
+  Text: Gants femme gris, noir taille unique, protection contre le froid
+  Similarity Probability: 0.0000
+  Text: Gants long femme rouge bordeaux, doublés polaire, élégance, look tendance
+  Similarity Probability: 0.0006
+  Text: Tour de cou maille rouge, pour homme protège du froid, pour hiver
+  Similarity Probability: 0.0013
+  Text: Tong fuchsia ergonomique, confort optimal tout au long de votre journée
+  Similarity Probability: 0.7716
+  Text: Bonnet marine homme, doublé polaire, confort, finitions torsades et maille
+  Similarity Probability: 0.0005
+
+Image: 2563.jpg
+  Text: portefeuille homme deux volets simili cuir grainé couleur marron
+  Similarity Probability: 0.0018
+  Text: Botte de pluie chelsea bleue plus légère et confortable
+  Similarity Probability: 0.0001
+  Text: Botte de pluie jaune pour enfant plus légère et confortable
+  Similarity Probability: 0.0001
+  Text: Ballerine grand nœud grise en polaire recyclée, semelle cuir souple
+  Similarity Probability: 0.0002
+  Text: Moufles  maille noir avec un bord fourrure, s'adaptent à votre main
+  Similarity Probability: 0.0053
+  Text: Chausson noir avec rayures, confort et esthétisme. Intérieur velours
+  Similarity Probability: 0.0008
+  Text: Gants gris fibres polyester recyclé, matière douce et très confortable
+  Similarity Probability: 0.0135
+  Text: Tong sport confort rose et noire garantie maintien, confort et légèreté
+  Similarity Probability: 0.0212
+  Text: Parapluie canne motif fleur, solidité, automatique et déperlant
+  Similarity Probability: 0.0000
+  Text: Parapluie imprimé à pois, prix bas, ouverture manuelle, solide
+  Similarity Probability: 0.0001
+  Text: Parapluie automatique X-tra Solide, innovation technologique solide
+  Similarity Probability: 0.0000
+  Text: Ceinture marron clair, noire, réversible, ajustable, effet grainé
+  Similarity Probability: 0.0005
+  Text: Ceinture robuste, uniforme, couleur noire, matière en tissu tressé
+  Similarity Probability: 0.0106
+  Text: Casquette beige en coton, confortable, protection maximum contre le soleil
+  Similarity Probability: 0.0145
+  Text: Chapeau trilby en paille, idéal pour été, robuste, léger et confortable
+  Similarity Probability: 0.0568
+  Text: Lunettes de soleil enfant de 2 à 3 ans, verres protection des yeux
+  Similarity Probability: 0.0001
+  Text: Gants femme gris, noir taille unique, protection contre le froid
+  Similarity Probability: 0.0359
+  Text: Gants long femme rouge bordeaux, doublés polaire, élégance, look tendance
+  Similarity Probability: 0.0001
+  Text: Tour de cou maille rouge, pour homme protège du froid, pour hiver
+  Similarity Probability: 0.0345
+  Text: Tong fuchsia ergonomique, confort optimal tout au long de votre journée
+  Similarity Probability: 0.0004
+  Text: Bonnet marine homme, doublé polaire, confort, finitions torsades et maille
+  Similarity Probability: 0.8035
+

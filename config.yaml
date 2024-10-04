@@ -1,0 +1,10 @@
+data:
+  sample: processed_data/fashion_dataset_sample_for_training.csv
+  full: processed_data/fashion_dataset_clean.csv
+tensors:
+  clip_images: processed_data/clip_images_features.pt
+  clip_texts: processed_data/clip_texts_features.pt
+  siglip_images: processed_data/siglip_images_features.pt
+  siglip_texts: processed_data/siglip_texts_features.pt
+models:
+  siglip: google/siglip-base-patch16-256-multilingual

@@ -1,0 +1,4 @@
+raw_data/
+env/
+sample_fashion_dataset/
+*.pt
