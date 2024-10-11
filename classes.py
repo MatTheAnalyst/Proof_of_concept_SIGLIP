@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import clip
+import faiss
 import os
 import torch
 from tqdm import tqdm
@@ -70,6 +71,26 @@ class Clip():
         with torch.no_grad():
           image_features[batch:batch+batch_size] = self.model.encode_image(inputs).float()
       return image_features
+   
+    def text_embedding(self, text:str):
+      text_tokens = clip.tokenize(text, truncate=True).to(device)
+      with torch.no_grad():
+          text_features = self.model.encode_text(text_tokens).float()
+          text_features_norm = text_features / text_features.norm(dim=1, keepdim=True)
+      return text_features_norm
+
+    def image_recommandation(self, prompt:str, image_features_path:str, n_recommandation:int = 3):
+      images_features = torch.load(image_features_path)
+      images_features_norm = images_features / images_features.norm(dim=1, keepdim=True)
+      images_features_np = images_features_norm.numpy()
+      dimension = images_features_np.shape[1]
+      index = faiss.IndexFlatIP(dimension)
+      index.add(images_features_np)
+      embedding = self.text_embedding(prompt)
+      embedding_np = embedding.numpy()
+      D, I = index.search(embedding_np, n_recommandation)
+      closest_images = [self.image_paths[i] for i in I[0]]
+      return closest_images, D, I
 
 class Siglip():
     def __init__(self, image_paths, descriptions, model):
@@ -130,6 +151,18 @@ class Siglip():
           outputs = self.model(**inputs)
       description_norm = outputs.text_embeds / outputs.text_embeds.norm(dim=1, keepdim=True)
       return description_norm
+
+    def image_recommandation(self, prompt:str, image_features_path:str, n_recommandation:int = 3):
+      images_features = torch.load(image_features_path)
+      images_features_np = images_features.numpy()
+      dimension = images_features_np.shape[1]
+      index = faiss.IndexFlatL2(dimension)
+      index.add(images_features_np)
+      embedding = self.text_embedding(prompt)
+      embedding_np = embedding.numpy()
+      D, I = index.search(embedding_np, n_recommandation)
+      closest_images = [self.image_paths[i] for i in I[0]]
+      return closest_images, D, I
 
 class ModelEvaluation():
   def __init__(self):

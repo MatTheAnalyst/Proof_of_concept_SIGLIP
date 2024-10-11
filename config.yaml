@@ -8,3 +8,4 @@ tensors:
   siglip_texts: processed_data/siglip_texts_features.pt
 models:
   siglip: google/siglip-base-patch16-256-multilingual
+  clip: ViT-B/32
